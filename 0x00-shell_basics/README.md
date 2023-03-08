@@ -5,4 +5,5 @@ A script that changes the working directory to the user’s home directory
 A script that display current directory contents in a long format
 A script that display current directory contents, including hidden files 
 A script that display current directory contents:Long format,with user and group IDs displayed numerically ,And hidden files
-A script that creates a directory named my_first_directory in the /tmp/ directory 
+A script that creates a directory named my_first_directory in the /tmp/ directory
+A script that Move the file betty from /tmp/ to /tmp/my_first_directory 
