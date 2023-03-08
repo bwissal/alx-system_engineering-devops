@@ -4,4 +4,5 @@ A script that display the contents list of  current directory
 A script that changes the working directory to the user’s home directory 
 A script that display current directory contents in a long format
 A script that display current directory contents, including hidden files 
-A script that display current directory contents:Long format,with user and group IDs displayed numerically ,And hidden files 
+A script that display current directory contents:Long format,with user and group IDs displayed numerically ,And hidden files
+A script that creates a directory named my_first_directory in the /tmp/ directory 
